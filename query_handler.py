@@ -63,7 +63,6 @@ def execute_sql(query):
 
 
 
-execute_sql("```sql SELECT Name FROM Departments WHERE ID = (SELECT ID FROM Departments WHERE Name = 'Sales') ) AND Manager IS NULL;'''")
 
 
 
