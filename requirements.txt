@@ -1,0 +1,6 @@
+streamlit
+pandas
+pandas
+numpy
+langchain
+llama-cpp-python
